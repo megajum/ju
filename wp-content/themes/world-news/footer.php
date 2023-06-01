@@ -43,7 +43,7 @@
 						 * @hooked - world_news_output_footer_copyright_content - 10
 						 */
 						do_action( 'world_news_footer_copyright' );
-						?>
+						?> | <a href="https://editor.iconfinder.com/privacy-policy/">Privacy Policy</a> | <a href="https://editor.iconfinder.com/contact-us/">Contact Us</a> | 
 					</div><!-- .site-info -->
 				</div>
 			</div>
